@@ -9,7 +9,7 @@
 <p>Verantwortlicher Anbieter dieses Internetauftritts im datenschutzrechtlichen Sinne ist:</p>
 <p><span style="color: #ff0000;">Joel Gilcher<br>Talstrasse 21<br>66957 Eppenbrunn<br>Deutschland</span></p>
 <p><span style="color: #ff0000;">E-Mail: mrkingdusanapp@gmail.com</span></p>
-<p>Für alle Fragen zum Thema Datenschutz in Zusammenhang mit der Nutzung unserer App können Sie sich jederzeit an die angegeben E-Mail-Adresse wenden.</p>
+<p>Für alle Fragen zum Thema Datenschutz in Zusammenhang mit der Nutzung meiner App können Sie sich jederzeit an die angegebe E-Mail-Adresse wenden.</p>
 <h3>II. Rechte der Nutzer und Betroffenen</h3>
 <p>Mit Blick auf die nachfolgend noch näher beschriebene Datenverarbeitung haben die Nutzer und Betroffenen das Recht</p>
 <ul>
