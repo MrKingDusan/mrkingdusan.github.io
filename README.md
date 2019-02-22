@@ -5,15 +5,11 @@
 <p>Mit der nachfolgenden Datenschutzerklärung informieren wir Sie insbesondere über Art, Umfang, Zweck, Dauer und Rechtsgrundlage der Verarbeitung personenbezogener Daten, soweit wir entweder allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung entscheiden. Zudem informieren wir Sie nachfolgend über die von uns zu Optimierungszwecken sowie zur Steigerung der Nutzungsqualität eingesetzten Fremdkomponenten, soweit hierdurch Dritte Daten in wiederum eigener Verantwortung verarbeiten.</p>
 <p>Unsere Datenschutzerklärung ist wie folgt gegliedert:</p>
 <p>I. Informationen über uns als Verantwortliche<br>II. Rechte der Nutzer und Betroffenen<br>III. Informationen zur Datenverarbeitung</p>
-<h3>I. Informationen über uns als Verantwortliche</h3>
+<h3>I. Informationen über mich als Verantwortlicher</h3>
 <p>Verantwortlicher Anbieter dieses Internetauftritts im datenschutzrechtlichen Sinne ist:</p>
-<p><span style="color: #ff0000;">Musterfirma/Musterunternehmer<br>Musterstraße 1<br>12345 Musterstadt<br>Deutschland</span></p>
-<p><span style="color: #ff0000;">Telefon: Telefonnummer<br>Telefax: Faxnummer<br>E-Mail: muster@mustermail.xy</span></p>
-<p>Datenschutzbeauftragte/r beim Anbieter ist:</p>
-<p><span style="color: #ff0000;">Maxie Musterfrau&nbsp;</span></p>
-<p><span style="color: #ff0000;">[nachfolgende Angaben sind zu ergänzen, sofern ein Externer Datenschutzbeauftragter bestellt ist]</span></p>
-<p><span style="color: #ff0000;">Musterstraße 1<br>12345 Musterstadt<br>Deutschland</span></p>
-<p><span style="color: #ff0000;">Telefon: Telefonnummer<br>Telefax: Faxnummer<br>E-Mail: datenschutz@mustermail.xy</span></p>
+<p><span style="color: #ff0000;">Joel Gilcher<br>Talstrasse 21<br>66957 Eppenbrunn<br>Deutschland</span></p>
+<p><span style="color: #ff0000;">E-Mail: mrkingdusanapp@gmail.com</span></p>
+<p>Für alle Fragen zum Thema Datenschutz in Zusammenhang mit der Nutzung unserer App können Sie sich jederzeit an die angegeben E-Mail-Adresse wenden.</p>
 <h3>II. Rechte der Nutzer und Betroffenen</h3>
 <p>Mit Blick auf die nachfolgend noch näher beschriebene Datenverarbeitung haben die Nutzer und Betroffenen das Recht</p>
 <ul>
